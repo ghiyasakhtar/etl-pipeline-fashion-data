@@ -14,7 +14,7 @@ Proyek ini membangun pipeline ETL (Extract, Transform, Load) untuk mengambil dat
 **etl-pipeline-fashion-data/**  
 ├── **main.py**                  # Skrip utama  
 ├── **requirements.txt**         # Daftar dependensi   
-├── **output.csv**               #  Output hasil ETL   
+├── **output.csv**               # Output hasil ETL   
 ├── **google-sheets-api.json**   # Kredensial API Google Sheets (Example/Dummy)
 ├── **.env**                     # Environment Variables (Example/Dummy)  
 ├── **utils/**                   # Modul ETL  
