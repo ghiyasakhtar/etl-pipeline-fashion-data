@@ -12,12 +12,10 @@ Proyek ini membangun pipeline ETL (Extract, Transform, Load) untuk mengambil dat
 ## Struktur Folder
 **my_submission/**  
 ├── **main.py** — Skrip utama  
-├── **requirements.txt** — Daftar dependensi  
-├── **submission.txt** — Instruksi submission  
-├── **output.csv** — Output hasil ETL  
-├── **.coverage** — File hasil test coverage  
-├── **google-sheets-api.json** — Kredensial API Google Sheets  
-├── **.env** — Variabel lingkungan (environment variables)  
+├── **requirements.txt** — Daftar dependensi   
+├── **output.csv** — Output hasil ETL   
+├── **google-sheets-api.json** — Kredensial API Google Sheets (Example/Dummy)
+├── **.env** — Environment Variables (Example/Dummy)  
 ├── **utils/** — Modul ETL  
 │   ├── **extract.py** — Modul ekstraksi data  
 │   ├── **transform.py** — Modul transformasi data  
