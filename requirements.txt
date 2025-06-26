@@ -1,0 +1,9 @@
+beautifulsoup4
+gspread
+numpy
+pandas
+protobuf
+psycopg2_binary
+pytest
+python-dotenv
+Requests
